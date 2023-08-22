@@ -3,9 +3,6 @@ runson: linux
 autosplit: true
 parallelism: 2
 concurrency: 2
-maxRetries: 1
-testSuiteTimeout: 480
-globalTimeout: 480
 scenarioCommandStatusOnly: true
 
 runtime:
