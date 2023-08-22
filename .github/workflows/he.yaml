@@ -2,7 +2,7 @@ name: HyperExecute
 on:
   push:
     branches:
-      - he
+      - main
 jobs:
   HE:
     runs-on: ubuntu-latest
